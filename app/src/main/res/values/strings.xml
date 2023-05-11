@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cooking Calculator</string>
+    <string name="cost_of_service">Convert From</string>
+    <string name="how_was_the_service">Convert To?</string>
+    <string name="ounces">Ounces</string>
+    <string name="grams">Grams</string>
+    <string name="fluid">Fluid Ounces</string>
+    <string name="mililiter">Milliliters</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount">Converted To: %s</string>
+</resources>
